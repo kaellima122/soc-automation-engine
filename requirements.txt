@@ -1,0 +1,1 @@
+ watchdog, requests, python-dotenv

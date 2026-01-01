@@ -1,0 +1,16 @@
+# Segredos
+.env
+
+# Pastas de sistema e cache
+__pycache__/
+*.py[cod]
+
+# Logs e Dados de teste (Não queremos subir seus testes pessoais)
+soc_enterprise.log
+relatorios_incidentes/
+copias_amostras/
+quarentena/
+
+# Pastas de ambiente virtual (se você usar)
+venv/
+.venv/
